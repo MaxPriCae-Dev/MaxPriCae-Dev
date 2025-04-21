@@ -10,7 +10,7 @@
 
 ## 📚 Currently Learning...
 - 🔐 **Malware detection** and anomaly behavior analysis in different environments.
-- 📡 **Automating alerts** with bots on Telegram, Discord, and other platforms.
+- 📡 **Automating alerts** with bots on Telegram, and other platforms.
 - 📊 Implementing **SIEMs** and log analysis.
 - 🖥️ **Hardening** and securing endpoints against advanced attacks.
 
