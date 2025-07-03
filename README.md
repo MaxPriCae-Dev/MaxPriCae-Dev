@@ -23,8 +23,6 @@ Soon
 
 ## ⚡ Fun Fact
 💡 **"If you're gonna take a hit, make it for being daring, not for being dumb."** 😏
-💡 **"If you're gonna cause chaos, go all out—no one remembers half-assed attempts."** 😏
-💡 **"Get people talking about you—doesn’t matter if it’s good or bad, just stay in their minds."** 😏
 
 
 ---
