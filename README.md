@@ -19,7 +19,7 @@
 - 🚀 Interested in contributing to **open-source cybersecurity tools**.
 
 ## 📬 Contact Me
-Soon
+https://www.linkedin.com/in/jesuscamacho/
 
 ## ⚡ Fun Fact
 💡 **"If you're gonna take a hit, make it for being daring, not for being dumb."** 😏
