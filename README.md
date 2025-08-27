@@ -1,28 +1,28 @@
 # 👾 MaxPriCae-Dev 
 
-👋 Hi! I'm @MaxPriCae-Dev, a cybersecurity enthusiast focusing on **defensive security**, developing **proof-of-concept exploits**, and automating alerts on platforms like Telegram, Slack, and more.
+👋 Hi! I'm Jesús Camacho (@MaxPriCae-Dev), a cybersecurity professional passionate about defensive security, malware analysis, and building proof-of-concepts that help strengthen cyber defenses.
 
 ## 🚀 About Me
-- 🔍 I'm interested in **cybersecurity**, particularly **endpoint protection** on macOS, Windows, BSD, and Linux.
-- ⚙️ I develop **scripts and tools** to improve visibility and incident response.
-- 🛠️ I work with **Python, Bash, PowerShell, and other technologies** for threat detection and mitigation.
-- 🐚 I explore offensive techniques to strengthen defenses through **proof-of-concept testing**.
+🔐 Focused on endpoint protection (macOS, Windows, Linux, BSD) and threat mitigation.
+⚙️ I design and develop tools, scripts, and automations that enhance visibility and improve incident response.
+🧪 I experiment with controlled offensive techniques to reinforce defensive strategies.
+🛠️ Skilled in Python, Bash, PowerShell, and cross-platform security integrations.
 
 ## 📚 Currently Learning...
-- 🔐 **Malware detection** and anomaly behavior analysis in different environments.
-- 📡 **Automating alerts** with bots on Telegram, and other platforms.
-- 📊 Implementing **SIEMs** and log analysis.
-- 🖥️ **Hardening** and securing endpoints against advanced attacks.
+🦠 Advanced malware detection and anomaly behavior analysis.
+📡 Automation of alerts and incident workflows (Telegram, Slack, and other platforms).
+📊 Building and tuning SIEM use cases for log correlation and threat hunting.
+🖥️ Endpoint hardening against advanced adversarial tactics.
 
 ## 🤝 Collaboration
-- 💻 Open to collaborating on **defensive security projects, controlled exploit development, and automated threat response**.
-- 🚀 Interested in contributing to **open-source cybersecurity tools**.
+🤖 Open to collaborating on defensive security tools, exploit PoCs (controlled), and automated threat response solutions.
+🌍 Interested in contributing to open-source security projects that make detection and defense more accessible.
 
 ## 📬 Contact Me
 https://www.linkedin.com/in/jesuscamacho/
 
 ## ⚡ Fun Fact
-💡 **"If you're gonna take a hit, make it for being daring, not for being dumb."** 😏
+💡 **"Cybersecurity is a marathon, not a sprint — I just keep learning."** 😏
 
 
 ---
